@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="main",AUTOSELECT=YES,DEFAULT=YES,URI="https://provider.com/audio-only.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,AUDIO="audio"
+https://provider.com/video-only.m3u8
