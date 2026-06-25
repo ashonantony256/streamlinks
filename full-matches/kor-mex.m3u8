@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="main",AUTOSELECT=YES,DEFAULT=YES,URI="https://dai.google.com/ondemand/hls/content/2488267/vid/2497147459920A/SIN/streams/3aa2c161-1b51-43e8-815d-0e0edc4634a6/media/7837cc908156191f9907af444be1df55.m3u8?aka_me_session_id=AAAAAAAAAABTbz5qAAAAAKgqApytWydDxSmL%2f9h5o+mDjps46iJh0sU8NzbmmXvOIeyjnkXNPp5lyCvr+VpLLNbozdvz+5Tl&aka_media_format_type=hls"
+#EXT-X-STREAM-INF:BANDWIDTH=2000000,AUDIO="audio"
+https://dai.google.com/ondemand/hls/content/2488267/vid/2497147459920A/SIN/streams/784fdbc9-6e3b-47e4-8999-860113af8d6c/media/36ab5517f05afcaef855376bf5144fcc.m3u8?aka_me_session_id=AAAAAAAAAADmbT5qAAAAABcFzIjHZ3e96WvVHrpbvEMPPny92VqovtOn62sZcAKlngNE25cITKkU3tEklIP8BX4tF0AZAoss&aka_media_format_type=hls
